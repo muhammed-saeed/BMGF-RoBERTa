@@ -2,5 +2,6 @@ tqdm
 numpy
 pandas
 scipy
+chardet
 transformers
 torch
